@@ -1,8 +1,8 @@
 ﻿var googleAnalyticsAppID = "UA-118778979-1";
-var logoImage = "../../App/Template/AdminLTE-master/img/AskGifLogo.png";
+var logoImage = "https://raw.githubusercontent.com/askgifdotcom/icon/main/android-chrome-192x192.png";
 var gifBasePath = "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Gifs/";
-var companyName = "AskGif";
-var companyLogo = "/AdminLTE-3/dist/img/AskGifLogo.png";
+var companyName = "TeJav";
+var companyLogo = "https://raw.githubusercontent.com/askgifdotcom/icon/main/android-chrome-192x192.png";
 var favicon = "/static/images/favicon.ico";
 var googleSearch = "https://cse.google.com/cse.js?cx=9ad79e1c9671fd821";
 var ampDomain = "https://amp.askgif.com";
@@ -27,7 +27,7 @@ var siteConfig = {
     companyCdn: "https://raw.githubusercontent.com/siteA-ask/CompanyLogo/main/Logo/",
     copyrightYear: "2021",
     lastCached: "2020",
-    site: "AskGifDotCom"
+    site: "TeJavDotCom"
 };
 
 var Model = {
@@ -39,12 +39,12 @@ var Model = {
         Amphtml: "amphtml",
         Canonical: "canonical",
         OgDescription: companyName + " is the place to explore and share the awesome GIFs with a comic punch.",
-        OgTitle: "AskGif - Find And Share All Gifs At One Place",
+        OgTitle: "TeJav - Find And Share All Gifs At One Place",
         OgImage: "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/99123253_2929029403813445_4489838762607509504_n.jpg",
-        Title: "AskGif - Find And Share All Gifs At One Place",
+        Title: "TeJav - Find And Share All Gifs At One Place",
         TagTitle: "{tag} GIFs - All Gifs At One Place",
-        TagDescription: "AskGif is the place to explore and share the awesome {tag} GIFs with a comic punch",
-        SingleTitle: "{title} - Find And Share On AskGif",
+        TagDescription: "TeJav is the place to explore and share the awesome {tag} GIFs with a comic punch",
+        SingleTitle: "{title} - Find And Share On TeJav",
         SingleDescription:"Share this {title} gif and explore more"
     },
     datePublished: "2021/10/23",
@@ -78,14 +78,14 @@ var BlogModel = {
         Amphtml: "amphtml",
         Canonical: "canonical",
         OgDescription: companyName + " is the place to explore and share the awesome Blogs with a comic punch.",
-        OgTitle: "AskGif Blogs - Find Best Reads of All Time",
+        OgTitle: "TeJav Blogs - Find Best Reads of All Time",
         OgImage: "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/99123253_2929029403813445_4489838762607509504_n.jpg",
-        Title: "AskGif Blogs - Find Best Reads of All Time",
+        Title: "TeJav Blogs - Find Best Reads of All Time",
         TagTitle: "{tag} Blogs - Find Best Reads of All Time",
-        TagDescription: "AskGif is the place to explore and share the awesome {tag} Blogs with a comic punch",
+        TagDescription: "TeJav is the place to explore and share the awesome {tag} Blogs with a comic punch",
         CategoryTitle: "{category} Related Blogs - Find Best Reads of All Time",
-        CategoryDescription:"AskGif is the place to explore and share the awesome {category} Blogs with a comic punch",
-        SingleTitle: "{title} - Blog - Find Best Reads of All Time on AskGif",
+        CategoryDescription:"TeJav is the place to explore and share the awesome {category} Blogs with a comic punch",
+        SingleTitle: "{title} - Blog - Find Best Reads of All Time on TeJav",
         SingleDescription: "Share this {title} blog and explore more"
     },
     datePublished: "2021/10/23",
@@ -131,9 +131,9 @@ var MovieModel = {
         Amphtml: "amphtml",
         Canonical: "canonical",
         OgDescription: companyName + " is the place to explore and share the awesome Movies with a comic punch.",
-        OgTitle: "AskGif - Find And Share All Movies At One Place",
+        OgTitle: "TeJav - Find And Share All Movies At One Place",
         OgImage: "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/99123253_2929029403813445_4489838762607509504_n.jpg",
-        Title: "AskGif - Find And Share All Movies At One Place",
+        Title: "TeJav - Find And Share All Movies At One Place",
         TagTitle: "{typeKey} - Movie - {pageType} - Find All Movies Information at Single Place",
         TagDescription: "Share this {typeKey} - Movie - {pageType} Movie Information and explore more",
         SingleTitle: "{title} - Find All Movies Information at Single Place",
@@ -170,9 +170,9 @@ var CompanyModel = {
         Amphtml: "amphtml",
         Canonical: "canonical",
         OgDescription: companyName + " is the place to explore and share the awesome Companies with a comic punch.",
-        OgTitle: "AskGif - Find And Share All Movies At One Place",
+        OgTitle: "TeJav - Find And Share All Movies At One Place",
         OgImage: "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/99123253_2929029403813445_4489838762607509504_n.jpg",
-        Title: "AskGif - Find And Share All Companies At One Place",
+        Title: "TeJav - Find And Share All Companies At One Place",
         TagTitle: "{industry} - Company - Industry - Find All Companies Information at Single Place",
         TagDescription: "Share this {industry} - Company - Industry Information and explore more",
         SingleTitle: "{title} - Find All Companies Information at Single Place",
@@ -201,23 +201,23 @@ var CompanyModel = {
 };
 
 var footerContent = {
-    heading1: "About AskGif",
-    content1: "AskGif is an honest to GOD approach to bring little smile on the tense faces. Make sure to play your part in our mission to make people smile.Keep smiling and keep sharing.",
+    heading1: "About TeJav",
+    content1: "TeJav is an honest to GOD approach to bring little smile on the tense faces. Make sure to play your part in our mission to make people smile.Keep smiling and keep sharing.",
 
     tnc: {
         heading1: "1. TERMS",
         content1: "By accessing the website at " + companyName + ", you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.",
 
         heading2: "2. USE LICENSE",
-        content21: "Permission is granted to temporarily download one copy of the materials (information or software) on AskGif's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
+        content21: "Permission is granted to temporarily download one copy of the materials (information or software) on TeJav's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
         contentArr: [
             "modify or copy the materials;",
             "use the materials for any commercial purpose, or for any public display (commercial or non-commercial);",
-            "attempt to decompile or reverse engineer any software contained on AskGif's website;",
+            "attempt to decompile or reverse engineer any software contained on TeJav's website;",
             "remove any copyright or other proprietary notations from the materials; or",
             "transfer the materials to another person or 'mirror' the materials on any other server."
         ],
-        content22:"This license shall automatically terminate if you violate any of these restrictions and may be terminated by AskGif at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format."
+        content22:"This license shall automatically terminate if you violate any of these restrictions and may be terminated by TeJav at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format."
     }, 
 
     links: [
