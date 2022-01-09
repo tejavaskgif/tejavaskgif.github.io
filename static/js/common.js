@@ -3,7 +3,7 @@ var logoImage = "https://raw.githubusercontent.com/askgifdotcom/icon/main/androi
 var gifBasePath = "https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Gifs/";
 var companyName = "TeJav";
 var companyLogo = "https://raw.githubusercontent.com/askgifdotcom/icon/main/android-chrome-192x192.png";
-var favicon = "/static/images/favicon.ico";
+var favicon = "https://raw.githubusercontent.com/askgifdotcom/icon/main/favicon.ico";
 var googleSearch = "https://cse.google.com/cse.js?cx=9ad79e1c9671fd821";
 var ampDomain = "https://amp.askgif.com";
 var ampDomainHi = "https://amphi.askgif.com";
